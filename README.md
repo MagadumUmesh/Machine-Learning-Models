@@ -1,2 +1,2 @@
-# Machine-Learning-Models
-Machine Learning Models
+Machine-Learning-Models
+Logistic regression
